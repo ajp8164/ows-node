@@ -30,7 +30,7 @@
     "async": "^2.5.0",
     "bcccore-lib": "git://github.com/owstack/bcccore-lib.git",
     "bcccore-p2p": "git://github.com/owstack/bcccore-p2p.git",
-    "bcoin": "1.0.0-beta.14",
+    "bcoin": "1.0.0-beta.12",
     "bitcoind-rpc": "git://github.com/owstack/bitcoind-rpc.git",
     "btccore-lib": "git://github.com/owstack/btccore-lib.git",
     "btccore-p2p": "git://github.com/owstack/btccore-p2p.git",
